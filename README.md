@@ -1,0 +1,2 @@
+<h1>Plant Disease Prediction</h1>
+    This is an Deep Learning project where various Neural Networks are used to predict the disease of the plant based on the state of leaf(RUST, SCAB, HEALTHY). Some of the Neural Networks are Xception, ResNet, VGG, InceptionNet, EfficientNet. 
